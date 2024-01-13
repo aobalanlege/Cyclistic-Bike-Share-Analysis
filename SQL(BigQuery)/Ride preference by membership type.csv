@@ -1,0 +1,6 @@
+member_casual,rideable_type,ride_count,percentage
+casual,classic_bike,888780,50.55
+casual,electric_bike,694551,39.5
+casual,docked_bike,174858,9.95
+member,classic_bike,1708646,65.44
+member,electric_bike,902525,34.56
