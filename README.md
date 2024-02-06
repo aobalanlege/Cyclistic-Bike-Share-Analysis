@@ -86,4 +86,5 @@ As a data analyst on the marketing team at Cyclistic, the goal is to analyze use
 
 ## Project Completion
 This project was completed as part of the requirements for the Google Data Analytics Professional Certificate program.
+To read the full analysis, please visit [Cyclistic User Analysis](https://medium.com/@adewaleobalanlege/cyclistic-user-analysis-how-does-a-bike-share-navigate-speedy-success-973d24a41950).
 
